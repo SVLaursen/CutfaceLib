@@ -1,0 +1,18 @@
+{
+    "name": "com.cutface.tools.Tests",
+    "references": [
+        "GUID:5af668487f9b8f3409400d7d31f0d5b0",
+        "GUID:f000fc389a377b44a9e5a0903a660267"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

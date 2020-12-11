@@ -1,0 +1,13 @@
+{
+    "name": "com.cutface.tools",
+    "version": "0.0.1",
+    "displayName": "Cutface Library",
+    "description": "",
+    "unity": "2020.1",
+    "dependencies": {},
+    "keywords": ["tools", "extensions"],
+    "author":{
+        "name": "Simon Vestergaard Laursen",
+        "email": "simonvlaursen@gmail.com"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "com.cutface.tools.editor",
+    "references": [
+        "GUID:5af668487f9b8f3409400d7d31f0d5b0"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
